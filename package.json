@@ -1,0 +1,31 @@
+{
+  "name": "pagination-api",
+  "version": "1.0.0",
+  "description": "Create A Paginated API With Node.js",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huioqy/pagination-api-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "paginated",
+    "API"
+  ],
+  "author": "Huioqy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huioqy/pagination-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/Huioqy/pagination-api-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
